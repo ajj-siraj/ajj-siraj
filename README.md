@@ -1,6 +1,6 @@
 ### Hello, I'm Siraj. I'm a Frontend Developer.
 
-- 🛠️ I'm currently working on [eComm], an eCommerce website built with the MERN stack!
+- 🛠️ I'm currently working on [eComm](https://github.com/ajj-siraj/ecomm-frontend), an eCommerce website built with the MERN stack!
 - 🔦 I’m currently deepening my React knowledge, as well as my Frontend knowledge.
 - 🔍 I’m looking for work as a React Developer. 
 - 🥅 2021 Goals: Become a React expert
