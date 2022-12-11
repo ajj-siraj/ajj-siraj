@@ -1,14 +1,13 @@
 ### Hello, I'm Siraj. I'm a Frontend Developer.
 
-- 🛠️ I'm currently working on [eComm](https://github.com/ajj-siraj/ecomm-frontend), an eCommerce website built with the MERN stack!
-- 🔦 I’m currently deepening my React knowledge, as well as my Frontend knowledge.
-- 🔍 I’m looking for work as a React Developer. 
-- 🥅 2021 Goals: Become a React expert
+- 🛠️ I'm currently working as Frontend Developer for VAI Marketing Management, Dubai.
+- 🔦 I’m currently learning more about Web 3, blockchain, and decentralized applications or DApps.
+- 🥅 2023 Goals: Building web apps that make a difference. Learning more about web animations (and web games).
 - 🙌 Fun fact: I love to play guitar, read and write fiction.
 
 ### Contact me:
 
-[<img align="left" alt="sirajahmed.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sirajahmed.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sirageldin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -35,5 +34,5 @@
 ---
 
 
-[website]: https://sirajahmed.vercel.app
+[website]: https://sirajahmed.dev
 [linkedin]: https://linkedin.com/in/sirageldin-ahmed
