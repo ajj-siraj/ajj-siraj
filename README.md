@@ -1,9 +1,8 @@
-### Hello, I'm Siraj. I'm a Frontend Developer.
+### Hello, I'm Siraj. I'm a Frontend Engineer.
 
-- 🛠️ I'm currently working as Frontend Developer for VAI Marketing Management, Dubai.
+- 🛠️ I'm currently seeking new opportunities as a Frontend Engineer / Sr. Frontend Engineer.
 - 🔦 I’m currently learning more about Web 3, blockchain, and decentralized applications or DApps.
-- 🥅 2023 Goals: Building web apps that make a difference. Learning more about web animations (and web games).
-- 🙌 Fun fact: I love to play guitar, read and write fiction.
+- 🥅 2024 Goals: Building web apps that make a difference. Learning more about web animations (and web games).
 
 ### Contact me:
 
